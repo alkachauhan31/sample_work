@@ -1,0 +1,21 @@
+body{
+	padding: 0px;
+	margin:0px;
+	font-family: Algerian;
+	color: #99722b;
+
+	background-image: url(backgrounds.jpg);
+	background-repeat: no-repeat;
+	background-position:center;
+}
+h1{
+	text-decoration: underline;
+}
+p{
+    opacity: 0.8; 
+    padding: 2px; 
+}
+div
+{   padding-top:100px;
+	text-align: center;	
+}
